@@ -1,5 +1,4 @@
 # Algorithms-and-data-structures-1-semester
-God willing, I'll move on to the second semester
 
 ## Лабораторная работа №1
 [a + b](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/1%20Lab/1.py)  
