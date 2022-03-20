@@ -11,7 +11,7 @@
 [Соревнования по бегу](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/2%20Lab/2.py)  
 [Число инверсий](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/2%20Lab/3.py)  
 [Анти-QuickSort](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/2%20Lab/4.py)  
-[К-ая порядковая статистика (тупые плюсы)](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/2%20Lab/5.cpp)  
+[К-ая порядковая статистика (TODO не забыть скинуть на python)](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/2%20Lab/5.cpp)  
 ## Лабораторная работа №3
 [Пирамида ли?](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/3%20Lab/1.py)  
 [Пирамидальная сортировка](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester/blob/main/3%20Lab/2.py)  
